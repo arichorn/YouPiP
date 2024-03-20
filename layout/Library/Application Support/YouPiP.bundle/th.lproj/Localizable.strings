@@ -1,0 +1,25 @@
+// การตั้งค่า
+
+"ENABLED" = "เปิดใช้งาน";
+"ENABLED_DESC" = "จำเป็นต้องรีสตาร์ทแอป";
+
+"USE_PIP_BUTTON" = "ใช้ปุ่ม PIP";
+"USE_PIP_BUTTON_DESC" = "เพิ่มปุ่ม PIP ผ่านการซ้อนทับการควบคุมวิดีโอเพื่อเปิดใช้งาน PIP แทนการยกเลิกแอพ";
+
+"USE_TAB_BAR_PIP_BUTTON" = "ใช้ปุ่มแท็บวิดีโอแถบ PIP";
+"USE_TAB_BAR_PIP_BUTTON_DESC" = "เพิ่มปุ่ม PIP ในแถบแท็บวิดีโอเพื่อเปิดใช้งาน PIP แทนการยกเลิกแอพ จำเป็นต้องรีสตาร์ทแอป";
+
+"DISABLE_PIP_MINI_PLAYER" = "ปิดการใช้งาน PIP สำหรับ Mini Player";
+"DISABLE_PIP_MINI_PLAYER_DESC" = "ปิดใช้งาน PIP ในขณะที่เล่นวิดีโอใน Mini Player";
+
+"LEGACY_PIP" = "Legacy PiP";
+"LEGACY_PIP_DESC" = "ใช้ avplayerlayer สำหรับ PIP วิธีนี้แก้ไขข้อผิดพลาดการเร่งความเร็ว แต่อาจลบตัวเลือก UHD (2K/4K) ออกจากวิดีโอใด ๆ จำเป็นต้องรีสตาร์ทแอป";
+
+"NON_BACKGROUNDABLE_PIP" = "Pip ที่ไม่ได้มีพื้นดิน";
+"NON_BACKGROUNDABLE_PIP_DESC" = "เปิดใช้งาน PIP สำหรับวิดีโอที่ไม่สามารถรองรับได้";
+
+"FAKE_YT_VERSION" = "เวอร์ชัน YouTube ปลอม";
+"FAKE_YT_VERSION_DESC" = "ตั้งค่าเวอร์ชัน YouTube เป็น %@ ดังนั้นปุ่ม PIP ภายใต้เครื่องเล่นวิดีโออาจแสดง";
+
+// Compatibility warning
+"UNSUPPORTED_YT_VERSION" = "YouTube เวอร์ชัน %@ ไม่ได้ทดสอบและอาจไม่ได้รับการสนับสนุนจาก YouPip โปรดอัพเกรด YouTube เป็นอย่างน้อยเวอร์ชัน %@";
